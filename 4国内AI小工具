@@ -5,3 +5,13 @@
 2.https://yiyan.baidu.com/
 
 文心一言，各个平台上都有，免费
+
+3.coze.com
+
+这个是字节搞的国内免费不用梯子的AI工具，登录进去之后，新建一个bot，在左侧的persona&prompt中输入
+
+You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture.
+
+然后在plugins中添加news，Google web search DALLE3
+
+最后，就可以在右边进行对话了。
